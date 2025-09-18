@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Kritik Chauhan  
 
-<!--
-**kritikchauhan/kritikchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python Developer | Data Analyst**  
+📊 Passionate about building data-driven solutions using **Python, Django, SQL, Excel, and Power BI**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Postgraduate in Computer Science  
+- 💡 Skilled in both **backend development** (Django, APIs, SQL) and **data analytics** (Excel, Power BI, Python libraries).  
+- 🌱 Currently working on projects that combine **web applications + data visualization**.  
+- ⚡ Aim: Deliver **scalable apps** and **actionable insights** from data.  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+**Programming & Development**  
+🐍 Python | Django | Flask | HTML | CSS | JavaScript  
+
+**Data Analysis & Visualization**  
+📊 SQL | Pandas | NumPy | Matplotlib | Seaborn | Excel | Power BI  
+
+**Other Tools**  
+Git & GitHub | Jupyter Notebook | VS Code  
+
+---
+
+## 📂 Featured Projects  
+
+🔹 [**Amazon Sales Dashboard (Power BI)**](#) – Interactive dashboard analyzing sales trends with DAX and slicers.  
+🔹 [**EDA on Job Dataset (Python)**](#) – Identified data analyst skill trends and salary insights using Pandas, NumPy, Matplotlib, and Seaborn.  
+🔹 [**Excel Call Reporting Tool**](#) – Automated reporting with pivot tables and visualization dashboards.  
+🔹 [**Django Web App**](#) – Built a fullstack app with Django backend, REST APIs, and SQL database integration.  
+
+---
+
+✨ *“Turning data into decisions & code into solutions.”*  
