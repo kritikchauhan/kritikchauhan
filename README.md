@@ -30,8 +30,7 @@ Git & GitHub | Jupyter Notebook | VS Code
 
 🔹 [**Amazon Sales Dashboard (Power BI)**](#) – Interactive dashboard analyzing sales trends with DAX and slicers.  
 🔹 [**EDA on Job Dataset (Python)**](#) – Identified data analyst skill trends and salary insights using Pandas, NumPy, Matplotlib, and Seaborn.  
-🔹 [**Excel Call Reporting Tool**](#) – Automated reporting with pivot tables and visualization dashboards.  
-🔹 [**Django Web App**](#) – Built a fullstack app with Django backend, REST APIs, and SQL database integration.  
+🔹 [**Excel Call Reporting MIS Report**](#) – Automated reporting with pivot tables and visualization dashboards.  
 
 ---
 
