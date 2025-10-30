@@ -28,7 +28,7 @@ Git & GitHub | Jupyter Notebook | VS Code
 
 ## 📂 Featured Projects  
 
-🔹 [**Amazon Sales Dashboard (Power BI)**](#) – Interactive dashboard analyzing sales trends with DAX and slicers.  
+🔹 [**Amazon Sales Dashboard (Power BI)**](https://github.com/kritikchauhan/Amazon_Sales_Analysis) – Interactive dashboard analyzing sales trends with DAX and slicers.  
 🔹 [**EDA on Job Dataset (Python)**](https://github.com/kritikchauhan/Job_Market_EDA) – Identified data analyst skill trends and salary insights using Pandas, NumPy, Matplotlib, and Seaborn.  
 🔹 [**Call Centre Performance Analysis MIS (Excel)**](https://github.com/kritikchauhan/Call_Centre_MIS) – Automated reporting with pivot tables and visualization dashboards. 
 
